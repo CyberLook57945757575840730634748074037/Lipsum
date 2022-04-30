@@ -199,6 +199,73 @@ font-family: 'Dosis', sans-serif;
     margin-left: -1px;
     
 }
+footer{
+    background-color: rgb(39, 41, 36);
+    
+}
+.p7{
+    color: aliceblue;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Public Sans', sans-serif;
+    
+}
+.p8{
+    font-family: 'Dosis', sans-serif;
+    font-weight: 500;
+    color: aliceblue;
+}
+
+.div-footer1{
+   display: inline-block;
+   margin-left: 170px;
+}
+.div-footer{
+    display: inline-block;
+   margin-left: 70px;
+}
+.div-in-footer2{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 120px;
+    margin-top: -150;
+    gap: 25px;
+}
+footer{
+    height: 240px;
+}
+.p9{
+    color: aliceblue;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Public Sans', sans-serif;
+    margin-left: 800px;
+    font-size: 13px;
+    margin-top: 30px;
+}
+.ret img {
+    max-width: 200px;
+    max-height: 200px;
+    padding: 1px;
+    transition: all 0.5s ease;
+    width: 55px;
+    border-radius: 100px;
+    
+}
+.white img:hover {
+    width: 60px;
+    background-color: rgb(255, 255, 255);
+    transition-duration: 0.4s;
+    
+
+
+
+
+}
+
+
+
+
 
 
 
